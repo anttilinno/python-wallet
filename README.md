@@ -23,3 +23,4 @@ Theoretically this should give overview of my Python journey.
 * Manage app with CI/CD
 * **Create a list, what real project needs** (architecture document, best practices etc.)
 * Host it in Oracle Cloud
+* Package manager [PDM](https://pdm.fming.dev/) 
