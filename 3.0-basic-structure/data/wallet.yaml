@@ -1,0 +1,20 @@
+---
+coins:
+  - {
+    id: ethereum,
+    symbol: eth,
+    name: Ethereum,
+    amount: 1
+  }
+  - {
+    id: bitcoin,
+    symbol: btc,
+    name: Bitcoin,
+    amount: 1
+  }
+  - {
+    id: solana,
+    symbol: solana,
+    name: Solana,
+    amount: 1
+  }
