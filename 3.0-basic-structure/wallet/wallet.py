@@ -4,7 +4,7 @@ try:
 except ImportError:
     from yaml import load, FullLoader
 
-from wallet.coin.coin import Coin
+from .coin.coin import Coin
 
 
 class Wallet:
