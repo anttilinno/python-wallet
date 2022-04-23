@@ -14,6 +14,7 @@ Theoretically this should give overview of my Python journey.
 | 4.0 | ...
 
 ### Loose ideas
+* Create Makefile for commands [Tutorial](https://earthly.dev/blog/python-makefile/)
 * Create CLI using [Typer](https://typer.tiangolo.com/)
 * Create API with [FastAPI](https://fastapi.tiangolo.com/)
 * Create possibility to create wallet from zero. Add coins through CLI, which creates/adds to wallet

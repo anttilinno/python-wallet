@@ -1,0 +1,8 @@
+---
+coins:
+  - {
+    id: bitcoin,
+    symbol: btc,
+    name: Bitcoin,
+    amount: 1
+  }

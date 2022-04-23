@@ -10,7 +10,7 @@ class Coin:
         self.id, self.symbol, self.name, self.amount = list(coin_data.values())
 
     def __str__(self):
-        return f"{{id: {self.id}, symbol: {self.symbol}, name: {self.name}, amount: {self.amount}}}"
+        return f'{{"id": "{self.id}", "symbol": "{self.symbol}", "name": "{self.name}", "amount": {self.amount}}}'
 
     def fetch_coin_price(self):
         """Fetch coin price from exchange_url"""

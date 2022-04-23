@@ -1,8 +1,4 @@
-# Try to use C loader first
-try:
-    from yaml import load, CFullLoader as FullLoader
-except ImportError:
-    from yaml import load, FullLoader
+from yaml import load, CFullLoader as FullLoader
 
 from .coin.coin import Coin
 
