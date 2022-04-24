@@ -12,7 +12,7 @@ was a problem, I could not make structure.
 
 Started reading **"Learning Python, 5th Edition"** , but this version was created prior reading the chapter about OOP. I read an article in [realpython](https://realpython.com/python3-object-oriented-programming/).
 
-Started to use pdm. Structured code to main module *wallet* and submodule *coin*. Wrote tests. Created Makefile, so I don't have to remember different pdm commands.
+Started to use [pdm](https://pdm.fming.dev/). Structured code to main module *wallet* and submodule *coin*. Wrote tests. Created [Makefile](https://earthly.dev/blog/python-makefile/), so I don't have to remember different pdm commands.
 
 Code structure was taken from [realpython](https://realpython.com/python-application-layouts/) again.
 
