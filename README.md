@@ -10,11 +10,11 @@ Theoretically this should give overview of my Python journey.
 | 0.0 | Skipped. I did not build wallet as a list | -
 | 1.0 | Simple python (`main.py` and `wallet.yaml`). Wallet is defined as yaml file. | Horrible
 | 2.0 | Basic OOP. Wallet is still yaml. Simple classes Coin and Wallet. Return total wallet price. | Still horrible
-| 3.0 | Introduce better structure. Write unit tests.
-| 4.0 | ...
+| 3.0 | Introduce better structure. Write unit tests. | Not satisfactory
+| 4.0 | Add typer to 3.0 and rename it 4.0 | Like a saddle on pig
+| 5.0 | Add a possibility to manipulate wallet via CLI | Not getting better
 
 ### Loose ideas
-* Create Makefile for commands [Tutorial](https://earthly.dev/blog/python-makefile/)
 * Create CLI using [Typer](https://typer.tiangolo.com/)
 * Create API with [FastAPI](https://fastapi.tiangolo.com/)
 * Create possibility to create wallet from zero. Add coins through CLI, which creates/adds to wallet
@@ -24,4 +24,3 @@ Theoretically this should give overview of my Python journey.
 * Manage app with CI/CD
 * **Create a list, what real project needs** (architecture document, best practices etc.)
 * Host it in Oracle Cloud
-* Package manager [PDM](https://pdm.fming.dev/) 
