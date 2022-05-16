@@ -1,0 +1,4 @@
+Generic single-database configuration.
+
+pdm run alembic revision --autogenerate -m "Coin table"
+pdm run alembic upgrade head
